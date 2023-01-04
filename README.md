@@ -26,4 +26,7 @@ I'm currently a student of Habib University.
   <a href="https://github.com/rohanraaj2"><img src="https://github-readme-stats.vercel.app/api?username=rohanraaj2&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="rohanraaj2"/></a>
 </p>
 
-
+<h3 align="center">Visitor Count</h3>
+<p align="center"> 
+<a href="https://github.com/rohanraaj2"><img src="https://profile-counter.glitch.me/rohanraaj2/count.svg" style="height:auto; width:300px;"/></a><br/>
+</p>
