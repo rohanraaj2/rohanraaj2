@@ -4,7 +4,7 @@ I'm currently a student of Habib University.
 
 - 👯 I’m looking to collaborate on projects in Python, C++, C# and Verilog.
 - 🤔 I’m looking forward to learn Java and make web based applications.
-- ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving data.
+- ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving data, etc.
 
 #### Languages:
 
