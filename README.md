@@ -24,7 +24,7 @@ I'm currently a student of Habib University.
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 
-### :fire: My Stats :
+### :fire: Stats:
 
 <p align="center">
 <a href="https://github.com/rohanraaj2"><img src="http://github-readme-streak-stats.herokuapp.com?user=rohanraaj2&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
