@@ -13,3 +13,17 @@ I'm currently a student of Habib University.
   <a href="https://twitter.com/rohanraaj2"><img src="https://img.shields.io/twitter/follow/rohanraaj2?color=blue&label=rohanraaj2&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
   <a href="https://github.com/rohanraaj2"><img src="https://img.shields.io/github/followers/rohanraaj2?label=rohanraaj2&logo=github&style=for-the-badge" alt="Github Badge"/></a>
 </div>
+
+
+### :fire: My Stats :
+
+<p align="center">
+<a href="https://github.com/rohanraaj2"><img src="http://github-readme-streak-stats.herokuapp.com?user=rohanraaj2&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
+</p>
+
+<p align="center">
+  
+  <a href="https://github.com/rohanraaj2"><img src="https://github-readme-stats.vercel.app/api?username=rohanraaj2&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="rohanraaj2"/></a>
+</p>
+
+
