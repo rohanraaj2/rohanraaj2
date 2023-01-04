@@ -22,7 +22,7 @@ I'm currently a student of Habib University.
 </p>
 
 <p align="center">
-  
+  <a href="https://github.com/rohanraaj2"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="rohanraaj2"/></a>
   <a href="https://github.com/rohanraaj2"><img src="https://github-readme-stats.vercel.app/api?username=rohanraaj2&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="rohanraaj2"/></a>
 </p>
 
