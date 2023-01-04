@@ -4,7 +4,7 @@ I'm currently a student of Habib University.
 
 - 👯 I’m looking to collaborate on projects in Python, C++, C# and Verilog
 - 🤔 I’m looking for help with learning Java, making web based applications including web3.
-- ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving mass data.
+- ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving data.
 
 #### Languages:
 
@@ -42,6 +42,8 @@ I'm currently a student of Habib University.
 <a href="https://github.com/rohanraaj2"><img src="https://profile-counter.glitch.me/rohanraaj2/count.svg" style="height:auto; width:300px;"/></a><br/>
 </p>
 
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
 ### :information_desk_person: Contact Info:
 
 <div id="badges" align="center">
@@ -50,5 +52,15 @@ I'm currently a student of Habib University.
   <a href="https://github.com/rohanraaj2"><img src="https://img.shields.io/github/followers/rohanraaj2?label=rohanraaj2&logo=github&style=for-the-badge" alt="Github Badge"/></a>
 </div>
 
+<h2>:book: Guestbook</h2>
+<p>Feel free to leave a <a href="https://github.com/rohanraaj2/rohanraaj2/issues/new?template=guestbook-entry.md">message</a> :)</p>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="Thank you for visiting!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/rohanraaj2/rohanraaj2/blob/main/assets/footer.png"></div>
 
