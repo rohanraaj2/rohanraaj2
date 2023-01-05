@@ -51,25 +51,23 @@ I'm currently a student of Habib University.
 
 <div id="badges" align="center">
 
-<a href="https://github.com/rohanraaj2">
-<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/rohanraaj2?style=social&label=@rohanraaj2">
+<a href="mailto:rohan.raaj2@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohan.raaj2@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 <a href="https://twitter.com/rohanraaj2/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/rohanraaj2?style=social&label=@rohanraaj2">
 </a>
+<a href="https://github.com/rohanraaj2">
+<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/rohanraaj2?style=social&label=@rohanraaj2">
+</a>
 <a href="https://linkedin.com/in/rohan-raj-92941028">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/rohan-raj-92941028&color=0A66C2&style=flat&logo=linkedin" />
-</a>
-</a>
-
-  <a href="mailto:rohan.raaj2@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohan.raaj2@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
   
 </div>
 
 <h2>:book: Guestbook</h2>
-<p>Feel free to leave a <a href="https://github.com/rohanraaj2/rohanraaj2/issues/new?template=guestbook-entry.md">message</a> :)</p>
+<p>Feel free to leave a message <a href="https://github.com/rohanraaj2/rohanraaj2/issues/new?template=guestbook-entry.md">here</a> :)</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
