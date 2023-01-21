@@ -46,16 +46,13 @@ I'm currently a student of Habib University.
 </p>
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-
-### :information_desk_person: Contact Info:
+    
+### :information_desk_person: Work Info:
 
 <div id="badges" align="center">
 
 <a href="mailto:rohan.raaj2@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohan.raaj2@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
-<a href="https://twitter.com/rohanraaj2/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/rohanraaj2?style=social&label=@rohanraaj2">
 </a>
 <a href="https://github.com/rohanraaj2">
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/rohanraaj2?style=social&label=@rohanraaj2">
@@ -65,6 +62,17 @@ I'm currently a student of Habib University.
 </a>
   
 </div>
+
+### :information_desk_person: Social Media:
+  
+<div id="badges" align="center">
+  
+<a href="https://fb.com/rohanraaj13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanraaj2" height="30" width="40" /></a>
+<a href="https://instagram.com/rohanraaj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanraaj2" height="30" width="40" /></a>
+  <a href="https://twitter.com/rohanraaj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanraaj2" height="30" width="40" /></a>
+  
+</div>
+  
 
 <h2>:book: Guestbook</h2>
 <p>Feel free to leave a message <a href="https://github.com/rohanraaj2/rohanraaj2/issues/new?template=guestbook-entry.md">here</a> :)</p>
