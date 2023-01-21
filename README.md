@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rohanraaj2 alt=rohanraaj2/> </p>
+
 I'm currently a student of Habib University.
 
 - 👯 I’m looking to collaborate on projects in Python, C++, C#, Verilog, Visual Basic, SQL, MongoDB and LaTex.
