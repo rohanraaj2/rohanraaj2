@@ -3,7 +3,7 @@
 I'm currently a student of Habib University.
 
 - 👯 I’m looking to collaborate on projects in Python, C++, C#, Verilog, Visual Basic, SQL, MongoDB and LaTex.
-- 🤔 I need help with Java and make web based applications.
+- 🤔 I need help with Java and making web based applications.
 - ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving data, etc.
 
 #### Languages:
