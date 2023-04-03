@@ -12,6 +12,7 @@ I'm currently a student of Habib University.
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=c-sharp&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 #### Utilities:
 
