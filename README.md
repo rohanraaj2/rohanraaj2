@@ -12,6 +12,8 @@ I'm currently a student of Habib University.
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=c-sharp&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
 
 #### Utilities:
 
