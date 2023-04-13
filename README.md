@@ -2,7 +2,7 @@
 
 I'm currently a student of Habib University.
 
-- 👯 I’m looking to collaborate on projects in Python, C++, C#, HTML5, Verilog, Visual Basic, SQL, MongoDB and LaTex.
+- 👯 I’m looking to collaborate on projects in any of the languages mentioned below, particularly in blockchain.
 - ⚡ Fun fact: I like working on all sorts of projects, i.e simple game development, projects involving data, etc.
 
 #### Languages:
