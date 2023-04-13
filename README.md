@@ -7,12 +7,12 @@ I'm currently a student of Habib University.
 
 #### Languages:
 
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=c-sharp&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
 
 #### Utilities:
