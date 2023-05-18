@@ -29,7 +29,7 @@ I'm currently a student of Habib University.
 ### :fire: Stats:
 
 <!-- <p align="center"> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&layout=compact&theme=midnight-purple&langs_count=10) ](https://github.com/rohanraaj2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&layout=compact&theme=midnight-purple&langs_count=10&card_width=495)](https://github.com/rohanraaj2/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&layout=donut&theme=midnight-purple&langs_count=10)](https://github.com/rohanraaj2/github-readme-stats) -->
   
@@ -37,7 +37,7 @@ I'm currently a student of Habib University.
 
 <!-- <p align="center"> -->
   
-  ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanraaj2&show_icons=true&theme=midnight-purple)
+  ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanraaj2&show_icons=true&theme=midnight-purple&&card_width=495)
 <!-- </p> -->
   
 
