@@ -28,17 +28,24 @@ I'm currently a student of Habib University.
 
 ### :fire: Stats:
 
-<p align="center">
-  <a href="https://github.com/rohanraaj2"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&&theme=midnight-purple&show_icons=true&layout=compact&border_color=7f3ace" alt="rohanraaj2"/></a>
-</p>
+<!-- <p align="center"> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&layout=compact&theme=midnight-purple&langs_count=10) ](https://github.com/rohanraaj2/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/rohanraaj2"><img src="https://github-readme-stats.vercel.app/api?username=rohanraaj2&theme=midnight-purple&show_icons=true&border_color=7f3ace" alt="rohanraaj2"/></a>
-</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraaj2&layout=donut&theme=midnight-purple&langs_count=10)](https://github.com/rohanraaj2/github-readme-stats) -->
+  
+<!-- </p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
+  
+  ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanraaj2&show_icons=true&theme=midnight-purple)
+<!-- </p> -->
+  
+
+
+
+<!-- <p align="center"> -->
 <a href="https://github.com/rohanraaj2"><img src="http://github-readme-streak-stats.herokuapp.com?user=rohanraaj2&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" /></a>
-</p>
+<!-- </p> -->
 
 <h3 align="center">Visitor Count</h3>
 
