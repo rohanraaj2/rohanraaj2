@@ -77,6 +77,7 @@ I'm currently a student of Habib University.
 <a href="https://fb.com/rohanraaj13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanraaj2" height="30" width="40" /></a>
 <a href="https://instagram.com/rohanraaj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanraaj2" height="30" width="40" /></a>
   <a href="https://twitter.com/rohanraaj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanraaj2" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/21038592/rohan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohan-raj" height="30" width="40" /></a>
   
 </div>
   
