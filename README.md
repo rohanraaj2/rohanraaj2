@@ -58,7 +58,7 @@ I'm currently a student at Technische Hochschule Ingolstadt.
 
 <div id="badges" align="center">
 
-<a href="mailto:rohan.raaj2@gmail.com">
+<a href="mailto:rohanraaj020@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohan.raaj2@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 <a href="https://github.com/rohanraaj2">
