@@ -59,13 +59,13 @@ I'm currently a student at Technische Hochschule Ingolstadt.
 <div id="badges" align="center">
 
 <a href="mailto:rohanraaj020@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohan.raaj2@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=rohanraaj020@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 <a href="https://github.com/rohanraaj2">
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/rohanraaj2?style=social&label=@rohanraaj2">
 </a>
-<a href="https://linkedin.com/in/rohan-raj-92941028">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/rohan-raj-92941028&color=0A66C2&style=flat&logo=linkedin" />
+<a href="https://linkedin.com/in/rohanraaj2">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/rohanraaj2&color=0A66C2&style=flat&logo=linkedin" />
 </a>
   
 </div>
