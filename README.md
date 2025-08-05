@@ -76,10 +76,14 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-00D4FF?style=for-the-badge&logo=codeium&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Bolt](https://img.shields.io/badge/-Bolt-FF6B35?style=for-the-badge&logo=bolt&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF1744?style=for-the-badge&logo=heart&logoColor=white)
 
 </div>
 
@@ -100,6 +104,17 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 ![Modbus](https://img.shields.io/badge/-Modbus%20Protocol-0078D4?style=for-the-badge&logoColor=white)
 ![OpenEMS](https://img.shields.io/badge/-OpenEMS-00C853?style=for-the-badge&logoColor=white)
+
+</div>
+
+### 🤖 AI Tools & Assistants
+<div align="center">
+
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Codeium](https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
