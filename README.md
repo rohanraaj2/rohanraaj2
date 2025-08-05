@@ -24,6 +24,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-FF6600?style=for-the-badge&logo=v&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -85,6 +86,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ### 🖥️ Systems & Platforms
 <div align="center">
 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -106,6 +108,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </div>
@@ -119,6 +122,13 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanraaj2&theme=midnight-purple&border=7f3ace&ring=80ff00&fire=80ff00" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+[![GitHub Metrics](https://img.shields.io/badge/GitHub_Metrics-Detailed_Analytics-7E3ACE?style=for-the-badge&logo=github&logoColor=white)](https://metrics.lecoq.io/insights?user=rohanraaj2)
+[![OctoProfile](https://img.shields.io/badge/OctoProfile-Enhanced_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://octoprofile.vercel.app/user?id=rohanraaj2)
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -162,6 +172,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 [![HackerRank](https://img.shields.io/badge/HackerRank-rohanraaj2-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rohanraaj2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rohanraaj2-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohanraaj2/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-rohanraaj2-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rohanraaj2)
+[![CodePen](https://img.shields.io/badge/CodePen-rohanraaj2-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rohanraaj2)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-rohan--raj-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21038592/rohan-raj)
   
 </div>
@@ -189,6 +200,13 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 <p align="center">
   <a href="https://github.com/rohanraaj2/rohanraaj2/issues/new?template=guestbook-entry.md">
     <img src="https://img.shields.io/badge/Sign_My_Guestbook-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Sign my guestbook" />
+  </a>
+</p>
+
+## 💬 Discussions
+<p align="center">
+  <a href="https://github.com/rohanraaj2/rohanraaj2/discussions">
+    <img src="https://img.shields.io/badge/Join_Discussions-Let's_Talk!-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Join discussions" />
   </a>
 </p>
 
