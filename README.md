@@ -71,6 +71,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -173,6 +174,7 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 [![Instagram](https://img.shields.io/badge/Instagram-rohanraaj2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohanraaj2)
 [![Twitter](https://img.shields.io/badge/Twitter-rohanraaj2-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohanraaj2)
 [![Reddit](https://img.shields.io/badge/Reddit-CauliflowerAlone2631-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/CauliflowerAlone2631/)
+[![Snapchat](https://img.shields.io/badge/Snapchat-rohan.raaj2-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/rohan.raaj2)
   
 </div>
 
