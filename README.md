@@ -20,9 +20,9 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-FF6600?style=for-the-badge&logo=v&logoColor=white)
@@ -47,12 +47,12 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ### 📚 Libraries & Frameworks
 <div align="center">
 
-![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OSGi](https://img.shields.io/badge/-OSGi-00457C?style=for-the-badge&logoColor=white)
 
 </div>
@@ -73,10 +73,11 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Xilinx](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)
 ![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
@@ -93,7 +94,6 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Xilinx](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -108,20 +108,21 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ### 🤖 AI Tools & Assistants
 <div align="center">
 
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/-Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Codeium](https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF1744?style=for-the-badge&logo=heart&logoColor=white)
 ![Gemini Code Assist](https://img.shields.io/badge/-Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cody](https://img.shields.io/badge/-Cody-FFB400?style=for-the-badge&logo=sourcegraph&logoColor=white)
+![Bolt](https://img.shields.io/badge/-Bolt-FF6B35?style=for-the-badge&logo=bolt&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-00D4FF?style=for-the-badge&logo=codeium&logoColor=white)
+![Codeium](https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-000000?style=for-the-badge&logoColor=white)
+![Cody](https://img.shields.io/badge/-Cody-FFB400?style=for-the-badge&logo=sourcegraph&logoColor=white)
 ![Augment](https://img.shields.io/badge/-Augment-7E3ACE?style=for-the-badge&logoColor=white)
 ![QodoGen](https://img.shields.io/badge/-QodoGen-4A90E2?style=for-the-badge&logoColor=white)
-![Windsurf](https://img.shields.io/badge/-Windsurf-00D4FF?style=for-the-badge&logo=codeium&logoColor=white)
-![Bolt](https://img.shields.io/badge/-Bolt-FF6B35?style=for-the-badge&logo=bolt&logoColor=white)
-![Lovable](https://img.shields.io/badge/-Lovable-FF1744?style=for-the-badge&logo=heart&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 
 </div>
 
@@ -170,9 +171,9 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rohanraaj020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanraaj020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rohanraaj2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanraaj2)
 [![GitLab](https://img.shields.io/badge/GitLab-rohanraaj2-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rohanraaj2)
+[![Email](https://img.shields.io/badge/Email-rohanraaj020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanraaj020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohanraaj2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanraaj2)
 [![Discord](https://img.shields.io/badge/Discord-rohan.raj12-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rohan.raj12)
 
