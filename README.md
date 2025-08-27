@@ -83,6 +83,8 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 ![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase%20Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![CodeScene](https://img.shields.io/badge/-CodeScene-1B998B?style=for-the-badge&logoColor=white)
+![Warp](https://img.shields.io/badge/-Warp-1B1F2A?style=for-the-badge&logo=warp&logoColor=white)
+![Wave Terminal](https://img.shields.io/badge/-Wave%20Terminal-00BFFF?style=for-the-badge&logo=wave&logoColor=white)
 
 </div>
 
@@ -110,18 +112,19 @@ I'm currently a **Computer Science and AI student** at **Technische Hochschule I
 
 ![Cursor AI](https://img.shields.io/badge/-Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Lovable](https://img.shields.io/badge/-Lovable-FF1744?style=for-the-badge&logo=heart&logoColor=white)
-![Gemini Code Assist](https://img.shields.io/badge/-Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Bolt](https://img.shields.io/badge/-Bolt-FF6B35?style=for-the-badge&logo=bolt&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini Code Assist](https://img.shields.io/badge/-Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-00D4FF?style=for-the-badge&logo=codeium&logoColor=white)
 ![Codeium](https://img.shields.io/badge/-Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 ![Blackbox AI](https://img.shields.io/badge/-Blackbox%20AI-000000?style=for-the-badge&logoColor=white)
 ![Cody](https://img.shields.io/badge/-Cody-FFB400?style=for-the-badge&logo=sourcegraph&logoColor=white)
 ![Augment](https://img.shields.io/badge/-Augment-7E3ACE?style=for-the-badge&logoColor=white)
 ![QodoGen](https://img.shields.io/badge/-QodoGen-4A90E2?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 </div>
